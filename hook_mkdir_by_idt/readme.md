@@ -9,6 +9,9 @@ hook sys_mkdir
 5. Disables memory protection on the sys_call_table.
 6. Overwrites entries in the sys_call_table with pointers to the hooked functions.
 
+relevant link
+=====
+- [Kernel Rootkit Tricks](http://www.linux-magazine.com/Online/Features/Kernel-Rootkit-Tricks)
 
 reference
 ====
